@@ -3,16 +3,16 @@ Vagrant up Foreman
 
 This will stand up a Foreman server with PuppetDB in Vagrant using VirtualBox
 
-IP: 192.168.50.3
-Hostname: foreman.local
-Username: admin
-Password: Password
+- IP: 192.168.50.3
+- Hostname: foreman.local
+- Username: admin
+- Password: Password
 
 # Instructions
 
 Download and Install:
-Vagrant
-Virtual Box
+- Vagrant
+- Virtual Box
 
 Git clone this repo, cd into the folder
 
